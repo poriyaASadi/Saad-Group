@@ -1,0 +1,71 @@
+@font-face {
+  font-family: "IranSansX";
+  src: url("../fonts/IranSansX/IRANSansX-Regular.woff2");
+}
+
+@font-face {
+  font-family: "IranSansX Light";
+  src: url("../fonts/IranSansX/IRANSansX-Light.woff2");
+}
+
+@font-face {
+  font-family: "IranSansX Number Bold";
+  src: url("../fonts/IranSansX/IRANSansXFaNum-Bold.ttf");
+}
+
+@font-face {
+  font-family: "IranSansX Medium";
+  src: url("../fonts/IranSansX/IRANSansX-Medium.woff2");
+}
+
+@font-face {
+  font-family: "IranSansX SemiBold";
+  src: url("../fonts/IranSansX/IRANSansX-DemiBold.woff2");
+}
+
+@font-face {
+  font-family: "IranSansX Bold";
+  src: url("../fonts/IranSansX/IRANSansX-Bold.woff2");
+}
+
+@font-face {
+  font-family: "IranSansX ExtraBold";
+  src: url("../fonts/IranSansX/IRANSansX-ExtraBold.woff2");
+}
+
+@font-face {
+  font-family: "IranSansX Black";
+  src: url("../fonts/IranSansX/IRANSansX-Black.woff2");
+}
+
+/* Kalameh Font */
+
+@font-face {
+  font-family: "Kalameh";
+  src: url("../fonts/Kalameh/KalamehWeb-Regular.woff2");
+}
+
+@font-face {
+  font-family: "Kalameh Medium";
+  src: url("../fonts/Kalameh/KalamehWeb-Medium.woff2");
+}
+
+@font-face {
+  font-family: "Kalameh SemiBold";
+  src: url("../fonts/Kalameh/KalamehWeb-SemiBold.woff2");
+}
+
+@font-face {
+  font-family: "Kalameh Bold";
+  src: url("../fonts/Kalameh/KalamehWeb-Bold.woff2");
+}
+
+@font-face {
+  font-family: "Kalameh ExBold";
+  src: url("../fonts/Kalameh/KalamehWeb-ExtraBold.woff2");
+}
+
+@font-face {
+  font-family: "Kalameh Black";
+  src: url("../fonts/Kalameh/KalamehWeb-Black.woff2");
+}
